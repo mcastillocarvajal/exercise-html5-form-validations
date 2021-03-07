@@ -1,0 +1,19 @@
+
+/* STYLE FOR BODY CONTAINER */
+
+
+/* STYLE FOR LABEL > We accept */
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: grey;
+    width: fit-content;
+    height: 31px;
+    border-radius: 4px;
+}
+
+.flex-container div {
+    margin: 2px;
+    padding: 0 5px;
+}
